@@ -1,3 +1,3 @@
 def function1(x):
-    return x+10
+    return x+1
 print(function1(10))
